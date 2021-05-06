@@ -9,4 +9,4 @@ In this project, I used UFO Sightings Data with JavaScript, HTML, CSS, D3.js to 
 
 ### Multiple Search Categories
 Four dropdowns were added to the above HTML to enable multiple filters and search for UFO sightings using up to 5 critieria includes date/time, city, state, country, and shape.
-![example image](UFO-level-2/lel2app.png)
+![example image](UFO-level-2/lvl2app.png)
