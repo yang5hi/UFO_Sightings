@@ -13,4 +13,4 @@ Four dropdowns were added to the above HTML to enable multiple filters and searc
 The dropdown contents were added using javascript from the source data automatically.
 
 A screenshot of the final website with example input is included as shown below.
-![example image](UFO-level-2/lvl2app.png)
+![example image](UFO-level-2/static/images/lvl2app.png)
